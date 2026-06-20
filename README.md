@@ -6,4 +6,6 @@ This PCB was designed for that with connectors on front and back. This allows fo
 
 The COSMAC VIP uses a 44-pin edge connector socket for the expansion bus. This adapter uses a 50 pin ribbon cable as that is the next standard size up from that and the extra pins are used as ground connections.
 
+![Gerber viewer output picture of project](Bus Adapter v2.PNG)
+
 Feel free to use this but if you use this in your projects, I'd appreciate a shout-out. :) 
